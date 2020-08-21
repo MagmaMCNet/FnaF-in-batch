@@ -1,5 +1,5 @@
 # FnaF-in-batch
-[![Discord]
+[![Discord](https://discordapp.com/api/guilds/711013877197832232/widget.json)](https://discord.gg/pD2Ubb2)
 this is project of my own im working on in my spare time
 # to use fnaf in batch file youl have to do CTRL + scrollwheal out so the text/png will work
 
