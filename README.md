@@ -1,6 +1,12 @@
+# Archive
+Please Find New Versions Here: [FNAFC](https://github.com/SMLkaiellis08/FNAFC/)
+Project Is No Longer Made In Batch For Many Reasons And Has Been Moved Over To C# .NET 6 - Console
+
+
 # FnaF-in-batch
 
 Find Updates On GameJolt Page Find Link In Github Description
+
 
 [![Discord](https://discordapp.com/api/guilds/711013877197832232/widget.json)](https://discord.gg/pD2Ubb2)
 <p>
