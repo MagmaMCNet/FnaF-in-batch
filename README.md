@@ -1,6 +1,6 @@
 # Archive
-Please Find New Versions Here: [FNAFC](https://github.com/SMLkaiellis08/FNAFC/)
-Project Is No Longer Made In Batch For Many Reasons And Has Been Moved Over To C# .NET 6 - Console
+Please Find New Versions Here: [FNAFC](https://github.com/MagmaMcNet/FNAFC/)
+Project Is No Longer Made In Batch For Many Reasons And Has Been Moved Over To C# .NET - Console
 
 
 # FnaF-in-batch
